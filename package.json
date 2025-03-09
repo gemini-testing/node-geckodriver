@@ -76,7 +76,7 @@
     "webdriverio": "^9.4.1"
   },
   "dependencies": {
-    "@wdio/logger": "^9.1.3",
+    "@testplane/wdio-logger": "^9.4.4",
     "@zip.js/zip.js": "^2.7.54",
     "decamelize": "^6.0.0",
     "http-proxy-agent": "^7.0.2",
