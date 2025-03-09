@@ -1,5 +1,5 @@
 {
-  "name": "geckodriver",
+  "name": "@testplane/geckodriver",
   "version": "5.0.0",
   "description": "Mozilla's Geckodriver for Node.js",
   "homepage": "https://github.com/webdriverio-community/node-geckodriver#readme",
