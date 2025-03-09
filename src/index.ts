@@ -1,5 +1,5 @@
 import cp, { type ChildProcess } from 'node:child_process'
-import logger from '@wdio/logger'
+import logger from '@testplane/wdio-logger'
 
 import { download as downloadDriver } from './install.js'
 import { hasAccess, parseParams } from './utils.js'

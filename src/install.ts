@@ -5,7 +5,7 @@ import stream from 'node:stream'
 import fsp, { writeFile } from 'node:fs/promises'
 import zlib from 'node:zlib'
 
-import logger from '@wdio/logger'
+import logger from '@testplane/wdio-logger'
 import tar from 'tar-fs'
 import { type RequestInit } from 'node-fetch'
 import { HttpsProxyAgent } from 'https-proxy-agent'
